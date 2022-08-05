@@ -14,3 +14,16 @@ if(a < b){
 else{
     console.log("ami fokir");
 }
+// if else if statment
+var x = 1000;
+var y = 1000;
+
+if(x > y){
+console.log("x boro")
+}
+else if(x < y){
+    console.log("y boro")
+}
+else{
+    console.log("they both are same")
+}
